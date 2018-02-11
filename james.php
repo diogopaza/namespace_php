@@ -1,6 +1,7 @@
 <?php
 
 namespace Cantores\TripHop;
+use \PDO;
 
 class James{
     public $canta;
